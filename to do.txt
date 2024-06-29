@@ -1,0 +1,19 @@
+- game assets
+	- 1 tile is 64x64 pixels
+	- maak een tileset png
+- create a path (in de map) -->> gebruik Tiled programma
+- map details
+
+- project setup
+- pathfinding
+	- hoe krijgen we de personages van punt a naar b
+	- collision, collisionblocks: kan, maar niet efficient
+	- waypoints: punten markeren waar de objecten naartoe verplaatsen, elke hoek in principe
+- building placement
+- shooting projectiles
+- health bars
+- sprites
+- waves
+- game over
+- resources
+- launch
